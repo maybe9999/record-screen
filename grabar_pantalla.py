@@ -1,7 +1,7 @@
-import cv2
-import numpy as np 
-import pyautogui
-import keyboard
+import cv2          #Procesamiento de img y videos
+import numpy as np  #crear vectores y matrices grandes multidimensionales, Funciones matemáticas de alto nivel
+import pyautogui    #Interactuar mouse y teclado, captura de pantalla.
+import keyboard     #Control del teclado.
 
 # Configuración de la grabación
 fps = 10.0 
